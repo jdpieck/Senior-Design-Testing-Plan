@@ -18,6 +18,7 @@ As an example of the first iteration; the current MPHX jig design can be seen be
   caption: [Original Plate Jig],
   [#image("images/Original_Plate_Jig.png", width: 90%)]) <orignaljig>
   
+  
 The proposed redesign to prevent the application on the stopping surface is to use smaller stoppers which line up with the loops of the MPHX plates. This design does not extrude as high as the jig in @orignaljig and should not be an issue due to its smaller surface area. The new design may be seen below:
 
 #figure(
