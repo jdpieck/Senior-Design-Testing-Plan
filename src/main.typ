@@ -8,20 +8,22 @@
 #include "../0-introduction.typ"
 
 #pagebreak()
-= Cycle Time
+= Cycle Time Testing
 #include "../cycle-time.typ"
 // ^^^ includes description of how to put the jig through the feed system that can be used for other testing procedures
 
 #pagebreak()
-= Jig
+= Jig Alignment Testing
 #include "../jig-alignment.typ"
 
-== Jig Bonding
+#pagebreak()
+= Jig Bonding Testing
 #include "../jig-bonding.typ"
 
-== Jig Interference
-#include "../lamina-ridge-interference.typ"
+// #pagebreak()
+// = Jig Interference
+// #include "../lamina-ridge-interference.typ"
 
 #pagebreak()
-= Pot Life
+= Pot Life Extension Testing
 #include "../pot-life.typ"
