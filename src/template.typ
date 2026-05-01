@@ -8,7 +8,7 @@
   authors: (
     (name: "Patrick Abrash", id: "920893423"),
     (name: "Keira Godfrey", id: "920712384"),
-    (name: "Leah Anberg Katzen", id: "920763207"),
+    (name: "Leah Andberg Katzen", id: "920763207"),
     (name: "Jason Daniel Pieck", id: "920981652"),
     (name: "Lara V. Tam", id: "921007153"),
     (name: "Peter Webster", id: "920857757"),

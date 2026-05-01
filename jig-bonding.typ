@@ -19,17 +19,18 @@ As an example of the first iteration; the current MPHX jig design can be seen be
 The proposed redesign to prevent the application on the stopping surface is to use smaller stoppers which line up with the loops of the MPHX plates. This design does not extrude as high as the jig in @orignaljig and should not be an issue due to its smaller surface area.
 
 #import "@preview/oasis-align:0.3.3": *
+#set grid(column-gutter: 3%)
 #oasis-align(
   [
 #figure(
   caption: [Original Plate Jig],
-[#image("images/Original_Plate_Jig.png", width: 90%)]) <orignaljig>
+[#image("images/Original_Plate_Jig.png")]) <orignaljig>
   ],
   [
     
 #figure(
   caption: [Proposed Plate Jig],
-[#image("images/Proposed_Plate_Jig.png", width: 90%)]) <newjig>
+[#image("images/Proposed_Plate_Jig.png")]) <newjig>
   ]
 )
   
